@@ -1,2 +1,4 @@
 # Stop-watch-and-timer
-this is a graphical stop watch and timer and watch
+This is a graphical stop watch and timer and watch
+follow me on instagram and telegram channel 
+@codewithashutosh
